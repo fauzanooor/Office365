@@ -1,4 +1,4 @@
-# Requirements
+# Requirement
 Install MSOnline powershell module
 - Open powershell with administrator, and run below command
 ```
