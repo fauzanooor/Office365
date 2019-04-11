@@ -1,0 +1,1 @@
+Import-Csv d:\upn.csv|%{Set-MsolUserPrincipalName -UserPrincipalName $_.upn -NewUserPrincipalName $_.newupn}
