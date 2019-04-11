@@ -1,5 +1,5 @@
 # Requirements
-Install powershell module for MSOnline
+Install MSOnline powershell module
 - Open powershell with administrator, and run below command
 ```
 Install-Module -name MSOnline
