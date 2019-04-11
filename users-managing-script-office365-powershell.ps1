@@ -1,8 +1,3 @@
-# connect to office 365
-$UserCredential = Get-Credential
-Connect-MsolService -Credential $UserCredential
-
-
 # Check User list
 Get-MsolUser -All
 
